@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shagor-Mia/Shagor-Mia/blob/main/b2.png)
 <h1 align="center">Hi 👋, I'm Shagor</h1>
-<h3 align="center">A passionate web developer from Dhaka, Bangladesh</h3>
+<h3 align="center">A passionate web developer from Dhaka, Bangladesh. Specializing in JavaScript and TypeScript, with hands-on experience in React.js, Next.js, Node.js Express.js, and MongoDB. I enjoy building scalable, user-friendly web applications, clean APIs, and modern full-stack solutions with a strong focus on performance and maintainability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagor-mia&label=Profile%20views&color=0e75b6&style=flat" alt="shagor-mia" /> </p>
 
