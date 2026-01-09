@@ -6,7 +6,8 @@
 - 👨‍💻 All of my projects are available at [https://shagor-mia-portfolio-dev.netlify.app/](https://shagor-mia-portfolio-dev.netlify.app/)
 
 - 📫 How to reach me **infinityshagor18557@gmail.com**
-<img align="right" width="300" height="300" alt="image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+
+<img align="right" width="300" height="300" alt="image"  src="https://github.com/user-attachments/assets/6b168468-2f13-43ed-8d58-f1be8ab312ba" />
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
